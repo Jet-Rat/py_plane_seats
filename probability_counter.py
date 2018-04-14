@@ -1,5 +1,5 @@
 '''
-Created on 8 апр. 2018 г.
+Created on 2018-04-08
 
 @author: jetrat
 '''
